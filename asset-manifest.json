@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-app/hooks-basic-react/static/css/main.073c9b0a.css",
+    "main.js": "/my-app/hooks-basic-react/static/js/main.648ce257.js",
+    "static/js/787.52309cdf.chunk.js": "/my-app/hooks-basic-react/static/js/787.52309cdf.chunk.js",
+    "static/media/logo.svg": "/my-app/hooks-basic-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/my-app/hooks-basic-react/index.html",
+    "main.073c9b0a.css.map": "/my-app/hooks-basic-react/static/css/main.073c9b0a.css.map",
+    "main.648ce257.js.map": "/my-app/hooks-basic-react/static/js/main.648ce257.js.map",
+    "787.52309cdf.chunk.js.map": "/my-app/hooks-basic-react/static/js/787.52309cdf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.648ce257.js"
+  ]
+}
