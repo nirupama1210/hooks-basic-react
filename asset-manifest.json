@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-app/hooks-basic-react/static/css/main.073c9b0a.css",
-    "main.js": "/my-app/hooks-basic-react/static/js/main.27c8b18c.js",
-    "static/js/787.52309cdf.chunk.js": "/my-app/hooks-basic-react/static/js/787.52309cdf.chunk.js",
-    "index.html": "/my-app/hooks-basic-react/index.html",
-    "main.073c9b0a.css.map": "/my-app/hooks-basic-react/static/css/main.073c9b0a.css.map",
-    "main.27c8b18c.js.map": "/my-app/hooks-basic-react/static/js/main.27c8b18c.js.map",
-    "787.52309cdf.chunk.js.map": "/my-app/hooks-basic-react/static/js/787.52309cdf.chunk.js.map"
+    "main.css": "/hooks-basic-react/static/css/main.073c9b0a.css",
+    "main.js": "/hooks-basic-react/static/js/main.7a76835b.js",
+    "static/js/787.52309cdf.chunk.js": "/hooks-basic-react/static/js/787.52309cdf.chunk.js",
+    "index.html": "/hooks-basic-react/index.html",
+    "main.073c9b0a.css.map": "/hooks-basic-react/static/css/main.073c9b0a.css.map",
+    "main.7a76835b.js.map": "/hooks-basic-react/static/js/main.7a76835b.js.map",
+    "787.52309cdf.chunk.js.map": "/hooks-basic-react/static/js/787.52309cdf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.27c8b18c.js"
+    "static/js/main.7a76835b.js"
   ]
 }
